@@ -1,0 +1,5 @@
+hello world
+hello hadoop
+hadoop mapreduce
+world of hadoop
+
